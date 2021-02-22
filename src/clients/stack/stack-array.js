@@ -1,4 +1,4 @@
-const Stack = require('../implementations/stack-array');
+const Stack = require('../implementations/stack/stack-array');
 
 const stack = new Stack();
 

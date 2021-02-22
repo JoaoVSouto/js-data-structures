@@ -1,4 +1,4 @@
-const Stack = require('../implementations/stack');
+const Stack = require('../implementations/stack/stack');
 
 const stack = new Stack();
 stack.push(5);
