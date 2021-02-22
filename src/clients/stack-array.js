@@ -19,5 +19,3 @@ stack.pop();
 stack.pop();
 
 console.log(stack.size()); // 2
-
-console.log(stack[Object.getOwnPropertySymbols(stack)[0]]);
